@@ -6,4 +6,4 @@ Scripts made by Bashir Ahmed Zeeshan for effective use of daily task
 
 
 Adding Gist
-<script src="https://gist.github.com/47bce389a71847919567b70a47eddd3f.git"></script>
+<script src="https://gist.github.com/engineerbaz/47bce389a71847919567b70a47eddd3f.js"></script>
