@@ -1,6 +1,6 @@
-# Script for upadting file to GtHub by taking filename as input.
+# Script for updating the file to GitHub by taking filename as input.
 
-```bash
+```shell
 RED='\033[0;31m'
 NC='\033[0m' 
 GREEN='\033[0;32m'
