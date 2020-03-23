@@ -17,3 +17,5 @@ git push origin master
 echo "     "
 echo -e "--------- ${BLUE}Completed update on Git ------"
 ```
+
+// For Running, type `bash gitBach.sh`
