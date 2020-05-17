@@ -1,4 +1,5 @@
 #Random Number generator between 0 & 100 and breaks if greater than 50 
+```bash
 let a=1
 while [ $a -le 100 ] 
 do
@@ -12,3 +13,4 @@ do
 	fi
 	  (( a++ ))
 done
+```
