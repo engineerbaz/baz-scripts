@@ -20,4 +20,6 @@ echo -e "--------- ${BLUE}Completed update on Git ------"
 
 
 please run command `ls` to see list
-// For Running, type `bash gitBach.sh`
+
+
+- // For Running, type `bash gitBach.sh`
