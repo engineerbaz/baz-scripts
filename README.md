@@ -1,4 +1,4 @@
-# baz-scripts
+# baz-scripts Updated
 Scripts made by ** Engr. Bashir Ahmed Zeeshan** for effective use of daily task
 
 ### - Updating file on GitHub by inputing filename 
