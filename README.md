@@ -6,3 +6,4 @@ Take filename as input and do commit and push on GitHub remote repo
 [https://github.com/engineerbaz/baz-scripts/blob/master/github-update.bash]
 
  
+Changes made in repo over Guthub
